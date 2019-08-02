@@ -14,7 +14,7 @@
 分かりやすい発表をするために修正をして行こう！
 
 ![default](https://user-images.githubusercontent.com/32291288/43301567-0214fab8-91a1-11e8-96ee-5de47aabd4d3.jpg)
-
+※現在SLPL Wikiは諸事情により閲覧できません。
 
 ## ①スライドのサイズは「標準（4:3）」　とは？
 パワーポイントにはスライドのサイズは
